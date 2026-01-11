@@ -14,7 +14,7 @@ I work mainly with **C++**, **Java**, and sometimes **JavaScript (Node.js)**.
 
 ## 💻 My Setup
 - **Laptop:** Lenovo ThinkPad X13 Gen2i  
-- **OS:** Fedora Linux 43 (Workstation Edition) (GNOME + Wayland) | Linux 6.17.7-300.fc43.x86_64   
+- **OS:** CachyOS x86_64 (Hyprland) | Linux 6.18.3-2-cachyos  
 - **Workflow:** VS Code Insiders / Zed Preview  with a focus on productivity and system optimization  
 
 ---

@@ -1,23 +1,23 @@
-## Contact
+## contact
 - **email:** matteo.vargas.quesada@gmail.com
 
 ---
 
-## Basic info
+## info
 
 I'm a **Systems Engineering student** interested in software development, operating systems, and efficient tooling.  
 Linux Torvald's secret lover.
 
 ---
 
-## Tech & Tools
+## tech / tools
 - **Languages:** Java, C++, JavaScript, Python  
 - **Frameworks & Tools:** Qt, SFML, Maven, VS Code, Textual  
 - **Domains:** Backend development, virtualization (QEMU/KVM, Virt-Manager), Linux customization  
 
 ---
 
-## My Setup
+## setup
 - **Laptop:** Lenovo ThinkPad X13 Gen2i  
 - **OS:** NixOS (x86_64 GNU/Linux) | Linux 6.12.67
 

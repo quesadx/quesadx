@@ -1,13 +1,12 @@
-# Contact
+## Contact
 - **email:** matteo.vargas.quesada@gmail.com
 
 ---
 
-# Matteo Vargas
+## Basic info
 
 I'm a **Systems Engineering student** interested in software development, operating systems, and efficient tooling.  
-I work mainly with **C++**, **Java**, and sometimes **JavaScript (Node.js)**.  
-NixOS enjoyer.
+Linux Torvald's secret lover.
 
 ---
 

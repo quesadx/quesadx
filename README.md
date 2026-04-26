@@ -40,7 +40,7 @@ matteo@desktop:~$ ./show_domains.sh
 
 ---
 
-matteo@desktop:~$ neofetch --minimal
+matteo@desktop:~$ fastfetch
 
 host    -> lenovo thinkpad x13 gen2i | MacBook Pro 2017 13" (NixOS)
 

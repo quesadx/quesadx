@@ -42,8 +42,11 @@ matteo@desktop:~$ neofetch --minimal
 host    -> lenovo thinkpad x13 gen2i | MacBook Pro 2017 13" (NixOS)
 
 os      -> nixos (x86_64 gnu/linux)
+
 kernel  -> 6.19.11-zen1
+
 editor  -> vs code
+
 shell   -> zsh | bash
 
 ---

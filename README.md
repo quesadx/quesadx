@@ -31,8 +31,11 @@ frameworks_and_tools/
 ---
 
 matteo@desktop:~$ ./show_domains.sh
+
 [backend] REST APIs, server-side architecture, database modeling
+
 [systems] OS internals, virtualization (QEMU/KVM, Virt-Manager), Linux customization
+
 [tooling] CLI tools, build systems, dev environment configuration
 
 ---

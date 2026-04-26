@@ -46,5 +46,4 @@ shell   -> zsh | bash
 
 ---
 
-matteo@quesada:~$ finger matteo
 contact: matteo.vargas.quesada@gmail.com

@@ -1,4 +1,5 @@
 matteo@thinkpad:~$ whoami
+
 matteo vargas quesada
 systems engineering student | linux enthusiast | software developer
 
@@ -7,7 +8,7 @@ systems engineering student | linux enthusiast | software developer
 matteo@thinkpad:~$ cat about.txt
 building things that work well and break gracefully.
 interested in the full stack — from kernel internals to web APIs.
-nixos daily driver. declarative everything.
+nixos daily driver.
 
 ---
 
@@ -42,13 +43,13 @@ matteo@desktop:~$ ./show_domains.sh
 
 matteo@desktop:~$ fastfetch
 
-host    -> lenovo thinkpad x13 gen2i | MacBook Pro 2017 13" (NixOS)
+host    -> lenovo thinkpad x13 gen2i | MacBook Pro 2017 13" (NixOS) | MacBook Air M1 (MacOS/Nix Darwin)
 
-os      -> nixos (x86_64 gnu/linux)
+os      -> nixos zokor (x86_64 gnu/linux)
 
-kernel  -> 6.19.11-zen1
+kernel  -> 7.0.10-zen1
 
-editor  -> vs code
+editor  -> zed
 
 shell   -> zsh | bash
 

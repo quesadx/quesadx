@@ -6,6 +6,7 @@ systems engineering student | linux enthusiast | software developer
 ---
 
 matteo@thinkpad:~$ cat about.txt
+
 building things that work well and break gracefully.
 interested in the full stack — from kernel internals to web APIs.
 nixos daily driver.
@@ -13,6 +14,7 @@ nixos daily driver.
 ---
 
 matteo@macbook-pro:~$ ls skills/
+
 languages/
   - java
   - c++

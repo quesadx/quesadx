@@ -1,7 +1,9 @@
 matteo@thinkpad:~$ whoami
 
 matteo vargas quesada
-systems | engineering student | linux enthusiast | software developer
+
+
+systems engineering student | linux enthusiast | software developer
 
 ---
 
